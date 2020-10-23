@@ -5,7 +5,7 @@ This is a learning project that aims to create a model using CNN LeNet. The mode
 
 Cloning this repo using
 ```commandline
-git clone 
+git clone https://github.com/chrismachado/lenet-cnn
 ```
 
 Install python dependencies with pip
