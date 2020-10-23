@@ -1,6 +1,6 @@
 # LeNet Convolutional Neural Network
+This is a learning project that aims to create a model using CNN LeNet. The model will classify the famous MNIST data set.
 
-git
 ## Usage
 
 Cloning this repo using
